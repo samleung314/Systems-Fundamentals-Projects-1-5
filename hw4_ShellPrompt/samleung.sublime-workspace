@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pid",
+				"pid_t"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"get_hea",
+				"get_heap_end"
+			],
+			[
+				"fake",
+				"fakeRequested"
+			],
+			[
+				"block",
+				"block_size"
+			],
+			[
+				"a",
+				"allocated"
+			],
+			[
+				"get",
+				"get_heap_start"
+			],
+			[
+				"req",
+				"requested_size"
+			],
+			[
+				"bloc",
+				"block_size"
+			],
+			[
+				"utf",
+				"utf16_buf"
+			],
+			[
+				"frac",
+				"fractPoint"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 345.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/student/samleung/hw4/Makefile.config",
+		"/home/student/samleung/hw4/include/debug.h",
+		"/home/student/samleung/hw4/Makefile.sublime-workspace",
+		"/home/student/Desktop/output",
+		"/home/student/Desktop/output.txt",
+		"/home/student/Desktop/stuff",
+		"/home/student/Desktop/test.txt",
+		"/home/student/samleung/hw4/src/part1.c",
+		"/home/student/samleung/hw4/src/part2.c",
+		"/home/student/samleung/hw4/testcmds.sf",
+		"/home/student/samleung/hw4/tests/sfish_tests.c",
+		"/home/student/Desktop/text.txt",
+		"/home/student/Desktop/midterm1/midterm1.c",
+		"/home/student/samleung/hw3/src/sfmm.c",
+		"/home/student/samleung/hw3/include/helper.h",
+		"/home/student/samleung/hw3/src/main.c",
+		"/home/student/samleung/hw3/tests/sfmm_tests.c",
+		"/home/student/samleung/hw3/include/sfmm.h",
+		"/home/student/samleung/hw3/include/debug.h",
+		"/home/student/Desktop/midterm1/a.out",
+		"/home/student/samleung/hw2/rsrc/someFileUTF8.txt",
+		"/home/student/samleung/hw2/rsrc/someFileUTF16LE.txt",
+		"/home/student/samleung/hw2/rsrc/someFileUTF16BE.txt",
+		"/home/student/samleung/hw2/rsrc/output.txt",
+		"/home/student/samleung/hw2/rsrc/abcd_UTF16LE.txt",
+		"/home/student/samleung/hw2/rsrc/nothing.txt",
+		"/home/student/samleung/hw2/src/wrappers.c",
+		"/home/student/samleung/hw2/src/utf8.c",
+		"/home/student/samleung/hw2/include/utf.h",
+		"/home/student/samleung/hw2/rsrc/test2.txt",
+		"/home/student/samleung/hw2/rsrc/testOut.txt",
+		"/home/student/samleung/hw2/src/utf16be.c",
+		"/home/student/samleung/hw2/include/wrappers.h",
+		"/home/student/samleung/hw2/src/utf.c",
+		"/home/student/samleung/hw2/src/utf16le.c",
+		"/home/student/samleung/hw2/rsrc/sample_utf16bebom.txt",
+		"/home/student/samleung/hw2/rsrc/sample_utf16lebom.txt",
+		"/home/student/samleung/hw2/src/main.c",
+		"/home/student/samleung/hw2/rsrc/sample_utf8bom.txt",
+		"/home/student/samleung/hw2/rsrc/abcd_UTF8.txt",
+		"/home/student/samleung/hw2/src/args.c",
+		"/home/student/samleung/hw2/tests/utf_tests.c",
+		"/home/student/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/student/samleung/hw2/include/debug.h",
+		"/home/student/samleung/hw2/rsrc/ascii.txt",
+		"/home/student/samleung/hw2/Makefile",
+		"/home/student/samleung/hw2/include/debug.h.gch",
+		"/home/student/samleung/learning/a.out",
+		"/home/student/samleung/learning/hw2_practice.c",
+		"/home/student/samleung/hw1/rsrc/stonybrook.txt",
+		"/home/student/samleung/hw1/rsrc/camelcase.txt",
+		"/home/student/samleung/hw1/rsrc/ans.txt",
+		"/home/student/samleung/hw1/rsrc/plain.txt",
+		"/home/student/samleung/hw1/src/const.c",
+		"/home/student/samleung/hw1/include/const.h",
+		"/home/student/samleung/hw1/include/hw1.h",
+		"/home/student/samleung/hw1/src/part2.c",
+		"/home/student/samleung/hw1/src/validate.c",
+		"/home/student/samleung/hw1/src/hw1.c",
+		"/home/student/samleung/hw1/src/main.c",
+		"/home/student/samleung/hw1/include/debug.h",
+		"/home/student/samleung/hw1/Makefile",
+		"/home/student/samleung/hw0/tests/test.c",
+		"/home/student/samleung/hw0/src/main.c",
+		"/home/student/samleung/hw0/include/hi.h",
+		"/home/student/samleung/hw0/src/hi.c",
+		"/home/student/samleung/hw0/academic_honesty.txt",
+		"/home/student/samleung/hw0/README.md"
+	],
+	"find":
+	{
+		"height": 75.0
+	},
+	"find_in_files":
+	{
+		"height": 205.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"debug",
+			"realloc",
+			"malloc",
+			"free",
+			"bg",
+			"argv",
+			"newDir",
+			"hold",
+			"currDir",
+			"pageCount",
+			"INVALID();",
+			"INVALID()",
+			"blockEnd",
+			"sf_free",
+			"allocateFreeBlock",
+			"pageCount",
+			"snapS",
+			"snap",
+			"addFreeBlock",
+			"buildFreeBlock",
+			"splitBlock",
+			"getBlock",
+			"sf_footer",
+			"seg_free_list",
+			"getBlock",
+			"EINVAL",
+			"sf_mem_init",
+			"bytes_to_write",
+			"reverse",
+			"is_upper_surrogate_pair",
+			"surrogate",
+			"open",
+			"code_point_to_utf8_glyph",
+			"UTF16BE",
+			"UTF8",
+			"ssize_t",
+			"code_point",
+			"utf16_glyph_t",
+			"decoding_function",
+			"size_t",
+			"from_utf16le_to_utf8",
+			"ssize_t",
+			"#if __BYTE_ORDER__ == __ORDER_LITTLE_ENDIAN__\n  reverse_bytes(&bom, 2);\n  #endif\n  write_to_bigendian(outfile, &bom, 2);\n\n  while((bytes_read = read_to_bigendian(infile, &utf8_buf.bytes[0], 1)) > 0) {\n    if((remaining_bytes = remaining_utf8_bytes(utf8_buf.bytes[0]))) {\n      if((bytes_read = read_to_bigendian(infile, &utf8_buf.bytes[1], remaining_bytes)) < 0) {\n        break;\n      }\n    }\n    code_point = get_utf8_decoding_function(remaining_bytes + 1)(utf8_buf);\n    utf16_buf = code_point_to_utf16le_glyph(code_point, &size_of_glyph);\n    write_to_bigendian(outfile, &utf16_buf, size_of_glyph);\n  }\n  ret = bytes_read;\n  return ret;",
+			"int ret = 0;\n  int bom;\n  utf8_glyph_t utf8_buf;\n  ssize_t bytes_read;\n  size_t remaining_bytes;\n  size_t size_of_glyph;\n  code_point_t code_point;\n  utf16_glyph_t utf16_buf;",
+			"int ret = 0;\n  int bom;\n  utf8_glyph_t utf8_buf;\n  ssize_t bytes_read;\n  size_t remaining_bytes;\n  size_t size_of_glyph;\n  code_point_t code_point;\n  utf16_glyph_t utf16_buf;\n\n  bom = UTF16BE;\n  #if __BYTE_ORDER__ == __ORDER_LITTLE_ENDIAN__\n  reverse_bytes(&bom, 2);\n  #endif\n  write_to_bigendian(outfile, &bom, 2);\n\n  while((bytes_read = read_to_bigendian(infile, &utf8_buf.bytes[0], 1)) > 0) {\n    if((remaining_bytes = remaining_utf8_bytes(utf8_buf.bytes[0]))) {\n      if((bytes_read = read_to_bigendian(infile, &utf8_buf.bytes[1], remaining_bytes)) < 0) {\n        break;\n      }\n    }\n    code_point = get_utf8_decoding_function(remaining_bytes + 1)(utf8_buf);\n    utf16_buf = code_point_to_utf16be_glyph(code_point, &size_of_glyph);\n    write_to_bigendian(outfile, &utf16_buf, size_of_glyph);\n  }\n  ret = bytes_read;\n  return ret;",
+			"BYTE_ORDER",
+			"free(program_state);",
+			"EXIT_FAILURE",
+			"exit",
+			"program_state",
+			"UTF16LE",
+			"upper_bytes",
+			"uint16_t",
+			"(void*)(intptr_t)",
+			"utf8_decoding_func_t",
+			"__BYTE_ORDER__",
+			"(void*)(intptr_t)",
+			"(infile, outfile)",
+			"get_encoding_function",
+			"outFile",
+			"inFile",
+			"convertion_func_t",
+			"infile",
+			"program_state",
+			"infile",
+			"program_state",
+			"convertion_func_t",
+			"convertion",
+			"encoding_from",
+			"program_state",
+			"encoding_from",
+			"program_state",
+			"encoding_from_to_t translate =",
+			"info",
+			"Malloc",
+			"programstate",
+			"memecpy",
+			"array_siz",
+			"char_array",
+			"ret = charArray",
+			"elsif",
+			"STR_UTF16BE",
+			"state_t *program_state",
+			"extern",
+			"STR_UTF16BE",
+			"endif",
+			"#include \"wrappers.h\"",
+			"STR_UTF8",
+			"errorcase",
+			"USAGE",
+			"utf8_decoding_func_t",
+			"program_state",
+			"stackpointer",
+			"register",
+			"utf8",
+			"utf8_encoding_func_t",
+			"utf8_to_utf16le",
+			"fractionated_table",
+			"key",
+			"const",
+			"setupMorseTable",
+			"HEY",
+			"checkLength",
+			"*key",
+			"key",
+			"){\n",
+			"null",
+			"validargs",
+			"argv",
+			"small"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"currDir",
+			"temp",
+			"hold",
+			"{INVALID();}",
+			"INVALID",
+			"(utf8_decoding_func_t)",
+			"utf8_decoding_func_t",
+			"(convertion_func_t)",
+			"",
+			"outfile",
+			"infile",
+			"mini"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.557845482942,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1250.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 950.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 369.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
